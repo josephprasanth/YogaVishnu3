@@ -1,2 +1,2 @@
 # YogaVishnu3
-YogaVishnu Is Recreated here with Angular 5 , Bootstrap 4 and is deployed using Firebase for the clientside  
+YogaVishnu.se will be using Angular 5 , Javascript, Typescript ,Bootstrap 4 and firebases new firestorm platform as backend to build the client panel. The main static website will be built with bootstrap 4 , Javascript , and jquery.
